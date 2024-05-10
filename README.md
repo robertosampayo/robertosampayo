@@ -5,10 +5,10 @@
 I am a Software developer focused on Frontend and Full-stack Technologies using Javascript, I am always trying to solve a problem, in real and virtual life. Most of the coding I do is to solve a real problem or to put something creative online. I like to learn new technologies each time I can in order that make my life easier, you probably will see some projects playing with those technologies here. Passionate for Technologies, mostly in the javascript stack. I like to work on projects I like it and where I think I can make some differences and put my creative and analytic touch.
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/robertosampayo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/robertosampayo?tab=repositories">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/robertosampayo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
